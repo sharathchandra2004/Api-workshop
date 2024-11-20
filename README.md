@@ -1,6 +1,4 @@
-Here’s a brief **README** for the *API Workshop* repository:  
 
----
 
 # API Workshop  
 
@@ -61,8 +59,3 @@ api-workshop/
 │   ├── currency_api.py     # Example: Currency conversion  
 │   └── auth_example.py     # Example: API authentication  
 └── utils/                  # Helper modules for API requests  
-```  
-
----
-
-This README provides a quick and clear overview of your *API Workshop* project!
